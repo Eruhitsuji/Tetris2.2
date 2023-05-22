@@ -12,5 +12,5 @@ Windows10
 
 ## 使用方法
 
-1. [Release](Release)フォルダをダウンロードする．
+1. [Tetris2.2.zip](Tetris2.2.zip)をダウンロードし解凍する．
 2. その中のTetris.exeを実行する．
