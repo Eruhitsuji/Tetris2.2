@@ -1,0 +1,28 @@
+mino-I	255	0	0
+mino-O	255	255	0
+mino-Z	0	255	0
+mino-S	255	0	255
+mino-J	0	0	255
+mino-L	255	165	0
+mino-T	0	255	255
+mino-DROP	105	105	105
+frame-NEXT	192	192	192
+frame-HOLD	192	192	192
+frame-FIELD	192	192	192
+disturbance	50	50	50
+background	255	255	255
+droppoint	true
+how_to_play	true
+input	true
+judgment	true	2
+key-LEFT	A
+key-RIGHT	D
+key-DOWN	S
+key-HOLD	Q
+key-TURN-0	W
+key-TURN-1	E
+key-HARD-DROP	SPACE
+key-FIN	ESCAPE
+key-MenuUP	W
+key-MenuDOWN	S
+key-MenuENTER	SPACE
